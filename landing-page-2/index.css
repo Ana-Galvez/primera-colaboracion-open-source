@@ -160,6 +160,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  text-align: end;
 }
 
 .content__section-gallery {
